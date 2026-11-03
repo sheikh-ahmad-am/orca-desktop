@@ -1,0 +1,16 @@
+# Build outputs and fetched dependencies (see docs/BUILD.md)
+build/
+dist/
+downloads/
+*.jar
+*.zip
+Orca.exe
+*.res
+
+# Local app data
+*.db
+
+# IDE
+.idea/
+*.iml
+.DS_Store
